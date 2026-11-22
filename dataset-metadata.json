@@ -1,0 +1,21 @@
+{
+  "title": "2026 U.S. State Electricity Rates & Top 300 Cities Utility Costs",
+  "id": "usasmartliving/us-electricity-rates-and-city-utility-costs-2026",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "subtitle": "Clean EIA-861M residential electricity tariffs, monthly kWh usage, solar payback ROI & city utility bills across 52 U.S. jurisdictions and 300 cities.",
+  "description": "Compiled and maintained by USA Smart Living (https://usasmartliving.com/datasets.html). Includes full state-by-state residential electricity rates (cents/kWh), average monthly consumption, deregulation status, grid operators, NREL peak sun hours, 30% ITC solar payback estimates, and Top 300 U.S. city monthly electric, natural gas, water, and internet utility benchmarks.",
+  "keywords": [
+    "energy",
+    "electricity",
+    "united states",
+    "utilities",
+    "cost of living",
+    "solar energy",
+    "eia",
+    "real estate"
+  ]
+}
