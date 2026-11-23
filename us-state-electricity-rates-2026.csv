@@ -1,0 +1,53 @@
+state_code,state_name,avg_electric_rate_cents_kwh,avg_monthly_usage_kwh,base_meter_charge_usd,est_monthly_electric_bill_usd,deregulated_market,grid_operator,peak_solar_sun_hours_day,solar_payback_years_30pct_itc,source_url
+AL,Alabama,14.85,1180,14.5,190,false,SERC Reliability Corporation,4.8,8.2,https://usasmartliving.com/states/alabama.html
+AK,Alaska,24.5,620,18,170,false,Railbelt Grid / Independent Microgrids,3.2,12,https://usasmartliving.com/states/alaska.html
+AZ,Arizona,14.65,1100,15,176,false,Western Electricity Coordinating Council (WECC),6.5,6,https://usasmartliving.com/states/arizona.html
+AR,Arkansas,12.75,1115,12,154,false,MISO / SPP,4.7,8.5,https://usasmartliving.com/states/arkansas.html
+CA,California,32.45,560,16.5,198,false,California ISO (CAISO),5.8,5.8,https://usasmartliving.com/states/california.html
+CO,Colorado,15.15,710,13,121,false,WECC / Xcel Energy Service Territory,5.4,7.2,https://usasmartliving.com/states/colorado.html
+CT,Connecticut,28.95,720,16,224,true,ISO New England (ISO-NE),4.1,6.8,https://usasmartliving.com/states/connecticut.html
+DE,Delaware,16.45,890,13.5,160,true,PJM Interconnection,4.4,7.8,https://usasmartliving.com/states/delaware.html
+DC,District of Columbia,16.2,710,15.5,131,true,PJM Interconnection,4.4,4.8,https://usasmartliving.com/states/district-of-columbia.html
+FL,Florida,15.65,1150,14,194,false,FRCC (Florida Reliability Coordinating Council),5.4,6.9,https://usasmartliving.com/states/florida.html
+GA,Georgia,14.35,1080,13,168,true,SERC / Southern Company Grid,4.9,7.5,https://usasmartliving.com/states/georgia.html
+HI,Hawaii,42.8,510,21,239,false,Hawaiian Electric (HECO) Island Grids,5.7,4.2,https://usasmartliving.com/states/hawaii.html
+ID,Idaho,11.1,940,10.5,115,false,WECC / Northwest Power Pool,4.8,9.8,https://usasmartliving.com/states/idaho.html
+IL,Illinois,16.9,730,14,137,true,PJM / MISO,4.2,6.9,https://usasmartliving.com/states/illinois.html
+IN,Indiana,15.3,940,13.5,157,false,MISO / PJM,4.3,8.4,https://usasmartliving.com/states/indiana.html
+IA,Iowa,14.2,870,12.5,136,false,MISO,4.5,8,https://usasmartliving.com/states/iowa.html
+KS,Kansas,14.4,920,14,146,false,Southwest Power Pool (SPP),4.9,7.9,https://usasmartliving.com/states/kansas.html
+KY,Kentucky,13.1,1120,13,160,false,PJM / MISO / TVA,4.4,8.6,https://usasmartliving.com/states/kentucky.html
+LA,Louisiana,11.9,1240,12,160,false,MISO,4.8,8.1,https://usasmartliving.com/states/louisiana.html
+ME,Maine,23.1,560,15,144,true,ISO New England,4.1,7.2,https://usasmartliving.com/states/maine.html
+MD,Maryland,17.4,960,14.5,182,true,PJM Interconnection,4.4,6.8,https://usasmartliving.com/states/maryland.html
+MA,Massachusetts,28.1,590,16.5,182,true,ISO New England,4.1,6.2,https://usasmartliving.com/states/massachusetts.html
+MI,Michigan,18.2,660,13.5,134,true,MISO / PJM,4.1,7.9,https://usasmartliving.com/states/michigan.html
+MN,Minnesota,15.2,740,13,125,false,MISO,4.3,8.2,https://usasmartliving.com/states/minnesota.html
+MS,Mississippi,13.6,1210,13.5,178,false,MISO / SERC,4.7,8.3,https://usasmartliving.com/states/mississippi.html
+MO,Missouri,13.9,1040,13.5,158,false,MISO / SPP,4.6,7.7,https://usasmartliving.com/states/missouri.html
+MT,Montana,12.8,840,11,119,false,WECC / Northwestern Energy,4.4,9.1,https://usasmartliving.com/states/montana.html
+NE,Nebraska,12.5,980,12,135,false,SPP (100% Public Power State),4.8,8.4,https://usasmartliving.com/states/nebraska.html
+NV,Nevada,16.1,890,15,158,false,WECC / NV Energy Balancing Authority,6.2,6.2,https://usasmartliving.com/states/nevada.html
+NH,New Hampshire,24.6,610,15,165,true,ISO New England,4.1,7.1,https://usasmartliving.com/states/new-hampshire.html
+NJ,New Jersey,19.4,680,14.5,146,true,PJM Interconnection,4.4,5.6,https://usasmartliving.com/states/new-jersey.html
+NM,New Mexico,14.3,640,12.5,104,false,WECC / PNM,6.3,6.4,https://usasmartliving.com/states/new-mexico.html
+NY,New York,24.2,590,17,160,true,New York ISO (NYISO),3.9,6.4,https://usasmartliving.com/states/new-york.html
+NC,North Carolina,14.1,1070,13.5,164,false,SERC / Duke Energy Balancing Authority,4.8,7.4,https://usasmartliving.com/states/north-carolina.html
+ND,North Dakota,12.1,1040,13,139,false,MISO,4.4,9.5,https://usasmartliving.com/states/north-dakota.html
+OH,Ohio,16.2,890,13.5,158,true,PJM Interconnection,4.2,7.8,https://usasmartliving.com/states/ohio.html
+OK,Oklahoma,12.9,1110,13,156,false,Southwest Power Pool (SPP),5.1,7.9,https://usasmartliving.com/states/oklahoma.html
+OR,Oregon,12.8,910,12,128,true,WECC / Bonneville Power Administration (BPA),4.3,8,https://usasmartliving.com/states/oregon.html
+PA,Pennsylvania,17.8,840,14,164,true,PJM Interconnection,4.2,7.4,https://usasmartliving.com/states/pennsylvania.html
+PR,Puerto Rico,29.5,540,16,175,false,LUMA Energy / PREPA,5.6,4.5,https://usasmartliving.com/states/puerto-rico.html
+RI,Rhode Island,27.4,590,16,178,true,ISO New England,4.1,6.5,https://usasmartliving.com/states/rhode-island.html
+SC,South Carolina,14.5,1110,13.5,174,false,SERC,4.9,7.2,https://usasmartliving.com/states/south-carolina.html
+SD,South Dakota,13.2,990,12,143,false,MISO / SPP,4.8,8.7,https://usasmartliving.com/states/south-dakota.html
+TN,Tennessee,12.4,1220,13,164,false,Tennessee Valley Authority (TVA),4.6,8.2,https://usasmartliving.com/states/tennessee.html
+TX,Texas,14.8,1190,12,188,true,Electric Reliability Council of Texas (ERCOT),5.3,6.8,https://usasmartliving.com/states/texas.html
+UT,Utah,11.6,780,10.5,101,false,WECC / Rocky Mountain Power,5.3,7.4,https://usasmartliving.com/states/utah.html
+VT,Vermont,21.8,560,16,138,false,ISO New England,3.9,7.2,https://usasmartliving.com/states/vermont.html
+VA,Virginia,14.2,1100,13,169,true,PJM Interconnection,4.6,7.3,https://usasmartliving.com/states/virginia.html
+WA,Washington,11.2,960,11,119,false,WECC / Columbia River Hydro System,3.7,8.8,https://usasmartliving.com/states/washington.html
+WV,West Virginia,14.5,1080,13.5,170,false,PJM Interconnection,4,8.5,https://usasmartliving.com/states/west-virginia.html
+WI,Wisconsin,17.1,690,15,133,false,MISO,4.2,7.9,https://usasmartliving.com/states/wisconsin.html
+WY,Wyoming,12.3,860,12,118,false,WECC / Rocky Mountain Power,5.1,8.6,https://usasmartliving.com/states/wyoming.html

@@ -1,0 +1,301 @@
+rank,city,state_code,state_name,electric_rate_cents_kwh,avg_monthly_kwh,avg_electric_bill_usd,avg_gas_bill_usd,avg_water_bill_usd,avg_internet_bill_usd,total_monthly_utilities_usd,deregulated_market,solar_sun_hours_day,solar_payback_years,source_url
+1,New York,NY,New York,25.05,611,170,73,81,75,399,true,3.9,6.4,https://usasmartliving.com/utility-costs/new-york/new-york.html
+2,Los Angeles,CA,California,31.57,545,189,77,86,75,427,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/los-angeles.html
+3,Chicago,IL,Illinois,17.47,755,146,56,62,72,336,true,4.2,6.9,https://usasmartliving.com/utility-costs/illinois/chicago.html
+4,Houston,TX,Texas,15.01,1207,193,55,61,70,379,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/houston.html
+5,Phoenix,AZ,Arizona,14.34,1077,169,55,61,72,357,false,6.5,6,https://usasmartliving.com/utility-costs/arizona/phoenix.html
+6,Philadelphia,PA,Pennsylvania,16.96,801,150,55,61,72,338,true,4.2,7.4,https://usasmartliving.com/utility-costs/pennsylvania/philadelphia.html
+7,San Antonio,TX,Texas,15.63,1257,208,57,63,70,398,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/san-antonio.html
+8,San Diego,CA,California,32.58,562,200,80,88,75,443,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/san-diego.html
+9,Dallas,TX,Texas,14.25,1146,175,52,58,70,355,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/dallas.html
+10,Austin,TX,Texas,14.77,1188,187,54,60,70,371,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/austin.html
+11,Jacksonville,FL,Florida,15.82,1163,198,56,63,72,389,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/jacksonville.html
+12,Fort Worth,TX,Texas,14.49,1165,181,53,59,70,363,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/fort-worth.html
+13,San Jose,CA,California,34.1,589,217,83,92,75,467,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/san-jose.html
+14,Columbus,OH,Ohio,15.49,851,145,50,55,69,319,true,4.2,7.8,https://usasmartliving.com/utility-costs/ohio/columbus.html
+15,Charlotte,NC,North Carolina,14.21,1079,167,53,58,70,348,false,4.8,7.4,https://usasmartliving.com/utility-costs/north-carolina/charlotte.html
+16,Indianapolis,IN,Indiana,14.46,888,142,47,52,69,310,false,4.3,8.4,https://usasmartliving.com/utility-costs/indiana/indianapolis.html
+17,San Francisco,CA,California,33.62,580,211,82,91,75,459,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/san-francisco.html
+18,Seattle,WA,Washington,10.71,918,109,62,69,70,310,false,3.7,8.8,https://usasmartliving.com/utility-costs/washington/seattle.html
+19,Denver,CO,Colorado,15.79,740,130,60,67,70,327,false,5.4,7.2,https://usasmartliving.com/utility-costs/colorado/denver.html
+20,Oklahoma City,OK,Oklahoma,12.45,1071,146,47,52,68,313,false,5.1,7.9,https://usasmartliving.com/utility-costs/oklahoma/oklahoma-city.html
+21,Nashville,TN,Tennessee,13.07,1286,181,51,57,68,357,false,4.6,8.2,https://usasmartliving.com/utility-costs/tennessee/nashville.html
+22,El Paso,TX,Texas,14.18,1140,174,52,57,70,353,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/el-paso.html
+23,Washington,DC,District of Columbia,16.26,713,131,70,78,74,353,true,4.4,4.8,https://usasmartliving.com/utility-costs/district-of-columbia/washington.html
+24,Las Vegas,NV,Nevada,15.78,872,153,51,57,72,333,false,6.2,6.2,https://usasmartliving.com/utility-costs/nevada/las-vegas.html
+25,Boston,MA,Massachusetts,27.23,572,172,66,74,76,388,true,4.1,6.2,https://usasmartliving.com/utility-costs/massachusetts/boston.html
+26,Portland,OR,Oregon,12.8,910,128,59,66,72,325,true,4.3,8,https://usasmartliving.com/utility-costs/oregon/portland.html
+27,Louisville,KY,Kentucky,12.55,1073,148,46,51,68,313,false,4.4,8.6,https://usasmartliving.com/utility-costs/kentucky/louisville.html
+28,Memphis,TN,Tennessee,12.76,1255,173,50,56,68,347,false,4.6,8.2,https://usasmartliving.com/utility-costs/tennessee/memphis.html
+29,Detroit,MI,Michigan,19.09,692,146,59,65,70,340,true,4.1,7.9,https://usasmartliving.com/utility-costs/michigan/detroit.html
+30,Baltimore,MD,Maryland,17.9,988,191,60,67,72,390,true,4.4,6.8,https://usasmartliving.com/utility-costs/maryland/baltimore.html
+31,Milwaukee,WI,Wisconsin,17.72,715,142,54,60,70,326,false,4.2,7.9,https://usasmartliving.com/utility-costs/wisconsin/milwaukee.html
+32,Albuquerque,NM,New Mexico,14.5,649,107,49,55,70,281,false,6.3,6.4,https://usasmartliving.com/utility-costs/new-mexico/albuquerque.html
+33,Tucson,AZ,Arizona,14.36,1078,170,55,61,72,358,false,6.5,6,https://usasmartliving.com/utility-costs/arizona/tucson.html
+34,Fresno,CA,California,32.16,555,195,78,87,75,435,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/fresno.html
+35,Sacramento,CA,California,31.9,550,192,78,87,75,432,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/sacramento.html
+36,Mesa,AZ,Arizona,14.21,1067,167,54,60,72,353,false,6.5,6,https://usasmartliving.com/utility-costs/arizona/mesa.html
+37,Kansas City,MO,Missouri,14.71,1100,175,53,59,69,356,false,4.6,7.7,https://usasmartliving.com/utility-costs/missouri/kansas-city.html
+38,Atlanta,GA,Georgia,13.99,1053,160,49,55,70,334,true,4.9,7.5,https://usasmartliving.com/utility-costs/georgia/atlanta.html
+39,Colorado Springs,CO,Colorado,14.95,701,118,57,63,70,308,false,5.4,7.2,https://usasmartliving.com/utility-costs/colorado/colorado-springs.html
+40,Omaha,NE,Nebraska,12.2,956,129,46,51,69,295,false,4.8,8.4,https://usasmartliving.com/utility-costs/nebraska/omaha.html
+41,Raleigh,NC,North Carolina,13.79,1046,158,51,57,70,336,false,4.8,7.4,https://usasmartliving.com/utility-costs/north-carolina/raleigh.html
+42,Virginia Beach,VA,Virginia,13.35,1034,151,51,56,70,328,true,4.6,7.3,https://usasmartliving.com/utility-costs/virginia/virginia-beach.html
+43,Long Beach,CA,California,31.05,536,183,76,84,75,418,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/long-beach.html
+44,Miami,FL,Florida,15.85,1165,199,57,63,72,391,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/miami.html
+45,Oakland,CA,California,33.23,573,207,81,90,75,453,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/oakland.html
+46,Minneapolis,MN,Minnesota,14.55,708,116,50,56,70,292,false,4.3,8.2,https://usasmartliving.com/utility-costs/minnesota/minneapolis.html
+47,Tulsa,OK,Oklahoma,12.65,1089,151,48,53,68,320,false,5.1,7.9,https://usasmartliving.com/utility-costs/oklahoma/tulsa.html
+48,Bakersfield,CA,California,34.14,589,218,83,93,75,469,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/bakersfield.html
+49,Wichita,KS,Kansas,14.13,903,142,48,53,70,313,false,4.9,7.9,https://usasmartliving.com/utility-costs/kansas/wichita.html
+50,Arlington,TX,Texas,14.56,1171,182,53,59,70,364,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/arlington.html
+51,Aurora,CO,Colorado,14.97,701,118,57,63,70,308,false,5.4,7.2,https://usasmartliving.com/utility-costs/colorado/aurora.html
+52,Tampa,FL,Florida,15.48,1137,190,55,61,72,378,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/tampa.html
+53,New Orleans,LA,Louisiana,12.59,1312,177,52,58,70,357,false,4.8,8.1,https://usasmartliving.com/utility-costs/louisiana/new-orleans.html
+54,Cleveland,OH,Ohio,16.23,892,158,52,58,69,337,true,4.2,7.8,https://usasmartliving.com/utility-costs/ohio/cleveland.html
+55,Honolulu,HI,Hawaii,40.49,482,216,70,78,79,443,false,5.7,4.2,https://usasmartliving.com/utility-costs/hawaii/honolulu.html
+56,Anaheim,CA,California,33,570,205,81,89,75,450,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/anaheim.html
+57,Lexington,KY,Kentucky,12.42,1062,145,45,50,68,308,false,4.4,8.6,https://usasmartliving.com/utility-costs/kentucky/lexington.html
+58,Stockton,CA,California,34.3,592,220,84,93,75,472,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/stockton.html
+59,Corpus Christi,TX,Texas,15.51,1247,205,57,63,70,395,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/corpus-christi.html
+60,Henderson,NV,Nevada,16.2,895,160,53,58,72,343,false,6.2,6.2,https://usasmartliving.com/utility-costs/nevada/henderson.html
+61,Riverside,CA,California,34.23,591,219,84,93,75,471,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/riverside.html
+62,Newark,NJ,New Jersey,18.82,660,139,65,72,74,350,true,4.4,5.6,https://usasmartliving.com/utility-costs/new-jersey/newark.html
+63,Saint Paul,MN,Minnesota,14.64,713,117,50,56,70,293,false,4.3,8.2,https://usasmartliving.com/utility-costs/minnesota/saint-paul.html
+64,Santa Ana,CA,California,30.99,535,182,76,84,75,417,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/santa-ana.html
+65,Cincinnati,OH,Ohio,16.39,901,161,53,59,69,342,true,4.2,7.8,https://usasmartliving.com/utility-costs/ohio/cincinnati.html
+66,Irvine,CA,California,33.26,574,207,81,90,75,453,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/irvine.html
+67,Orlando,FL,Florida,15.6,1147,193,56,62,72,383,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/orlando.html
+68,Pittsburgh,PA,Pennsylvania,17.48,825,158,57,63,72,350,true,4.2,7.4,https://usasmartliving.com/utility-costs/pennsylvania/pittsburgh.html
+69,Greensboro,NC,North Carolina,13.85,1051,159,51,57,70,337,false,4.8,7.4,https://usasmartliving.com/utility-costs/north-carolina/greensboro.html
+70,Jersey City,NJ,New Jersey,18.33,643,132,63,70,74,339,true,4.4,5.6,https://usasmartliving.com/utility-costs/new-jersey/jersey-city.html
+71,Anchorage,AK,Alaska,24.65,624,172,68,75,89,404,false,3.2,12,https://usasmartliving.com/utility-costs/alaska/anchorage.html
+72,Lincoln,NE,Nebraska,13.04,1022,145,49,54,69,317,false,4.8,8.4,https://usasmartliving.com/utility-costs/nebraska/lincoln.html
+73,Plano,TX,Texas,15.18,1221,197,55,62,70,384,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/plano.html
+74,Durham,NC,North Carolina,14.65,1112,176,54,60,70,360,false,4.8,7.4,https://usasmartliving.com/utility-costs/north-carolina/durham.html
+75,Buffalo,NY,New York,24.9,607,168,72,80,75,395,true,3.9,6.4,https://usasmartliving.com/utility-costs/new-york/buffalo.html
+76,Chandler,AZ,Arizona,15.16,1139,188,58,64,72,382,false,6.5,6,https://usasmartliving.com/utility-costs/arizona/chandler.html
+77,Chula Vista,CA,California,33.16,572,206,81,90,75,452,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/chula-vista.html
+78,Toledo,OH,Ohio,15.24,837,141,49,55,69,314,true,4.2,7.8,https://usasmartliving.com/utility-costs/ohio/toledo.html
+79,Madison,WI,Wisconsin,16.19,653,121,49,55,70,295,false,4.2,7.9,https://usasmartliving.com/utility-costs/wisconsin/madison.html
+80,Gilbert,AZ,Arizona,14.11,1059,164,54,60,72,350,false,6.5,6,https://usasmartliving.com/utility-costs/arizona/gilbert.html
+81,Reno,NV,Nevada,15.84,876,154,51,57,72,334,false,6.2,6.2,https://usasmartliving.com/utility-costs/nevada/reno.html
+82,Fort Wayne,IN,Indiana,15.22,935,156,49,55,69,329,false,4.3,8.4,https://usasmartliving.com/utility-costs/indiana/fort-wayne.html
+83,North Las Vegas,NV,Nevada,17.02,941,175,55,61,72,363,false,6.2,6.2,https://usasmartliving.com/utility-costs/nevada/north-las-vegas.html
+84,Lubbock,TX,Texas,15.48,1245,205,56,63,70,394,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/lubbock.html
+85,Irving,TX,Texas,15.14,1217,196,55,61,70,382,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/irving.html
+86,Laredo,TX,Texas,15.05,1210,194,55,61,70,380,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/laredo.html
+87,Chesapeake,VA,Virginia,14.71,1140,181,56,62,70,369,true,4.6,7.3,https://usasmartliving.com/utility-costs/virginia/chesapeake.html
+88,Glendale,AZ,Arizona,13.95,1047,161,53,59,72,345,false,6.5,6,https://usasmartliving.com/utility-costs/arizona/glendale.html
+89,Garland,TX,Texas,14.9,1198,191,54,60,70,375,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/garland.html
+90,Scottsdale,AZ,Arizona,13.8,1036,158,53,58,72,341,false,6.5,6,https://usasmartliving.com/utility-costs/arizona/scottsdale.html
+91,Norfolk,VA,Virginia,14.92,1156,185,57,63,70,375,true,4.6,7.3,https://usasmartliving.com/utility-costs/virginia/norfolk.html
+92,Boise,ID,Idaho,11.3,957,119,49,55,68,291,false,4.8,9.8,https://usasmartliving.com/utility-costs/idaho/boise.html
+93,Fremont,CA,California,31.83,549,191,78,86,75,430,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/fremont.html
+94,Spokane,WA,Washington,10.72,919,110,62,69,70,311,false,3.7,8.8,https://usasmartliving.com/utility-costs/washington/spokane.html
+95,Santa Clarita,CA,California,32.55,562,199,79,88,75,441,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/santa-clarita.html
+96,Baton Rouge,LA,Louisiana,12.16,1267,166,51,56,70,343,false,4.8,8.1,https://usasmartliving.com/utility-costs/louisiana/baton-rouge.html
+97,Richmond,VA,Virginia,13.75,1065,159,52,58,70,339,true,4.6,7.3,https://usasmartliving.com/utility-costs/virginia/richmond.html
+98,Hialeah,FL,Florida,16.46,1210,213,59,65,72,409,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/hialeah.html
+99,San Bernardino,CA,California,31.35,541,186,77,85,75,423,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/san-bernardino.html
+100,Tacoma,WA,Washington,10.74,921,110,62,69,70,311,false,3.7,8.8,https://usasmartliving.com/utility-costs/washington/tacoma.html
+101,Modesto,CA,California,31.18,538,184,76,85,75,420,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/modesto.html
+102,Huntsville,AL,Alabama,15.47,1230,205,54,60,69,388,false,4.8,8.2,https://usasmartliving.com/utility-costs/alabama/huntsville.html
+103,Des Moines,IA,Iowa,14.98,918,150,48,54,68,320,false,4.5,8,https://usasmartliving.com/utility-costs/iowa/des-moines.html
+104,Yonkers,NY,New York,24.76,604,167,72,80,75,394,true,3.9,6.4,https://usasmartliving.com/utility-costs/new-york/yonkers.html
+105,Rochester,NY,New York,23.3,568,149,68,75,75,367,true,3.9,6.4,https://usasmartliving.com/utility-costs/new-york/rochester.html
+106,Moreno Valley,CA,California,32.29,557,196,79,88,75,438,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/moreno-valley.html
+107,Fayetteville,NC,North Carolina,13.76,1044,157,51,57,70,335,false,4.8,7.4,https://usasmartliving.com/utility-costs/north-carolina/fayetteville.html
+108,Fontana,CA,California,31.18,538,184,76,85,75,420,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/fontana.html
+109,Columbus,GA,Georgia,13.72,1032,155,48,54,70,327,true,4.9,7.5,https://usasmartliving.com/utility-costs/georgia/columbus.html
+110,Worcester,MA,Massachusetts,26.81,563,167,65,73,76,381,true,4.1,6.2,https://usasmartliving.com/utility-costs/massachusetts/worcester.html
+111,Mckinney,TX,Texas,14.15,1138,173,52,57,70,352,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/mckinney.html
+112,Little Rock,AR,Arkansas,13.22,1156,165,49,54,68,336,false,4.7,8.5,https://usasmartliving.com/utility-costs/arkansas/little-rock.html
+113,Augusta,GA,Georgia,14.72,1108,176,52,57,70,355,true,4.9,7.5,https://usasmartliving.com/utility-costs/georgia/augusta.html
+114,Oxnard,CA,California,31.35,541,186,77,85,75,423,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/oxnard.html
+115,Birmingham,AL,Alabama,15.44,1227,204,54,60,69,387,false,4.8,8.2,https://usasmartliving.com/utility-costs/alabama/birmingham.html
+116,Montgomery,AL,Alabama,15.49,1231,205,54,60,69,388,false,4.8,8.2,https://usasmartliving.com/utility-costs/alabama/montgomery.html
+117,Frisco,TX,Texas,15.01,1207,193,55,61,70,379,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/frisco.html
+118,Amarillo,TX,Texas,14.1,1134,172,51,57,70,350,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/amarillo.html
+119,Salt Lake City,UT,Utah,11.11,747,93,47,53,68,261,false,5.3,7.4,https://usasmartliving.com/utility-costs/utah/salt-lake-city.html
+120,Grand Rapids,MI,Michigan,19.2,696,147,59,65,70,341,true,4.1,7.9,https://usasmartliving.com/utility-costs/michigan/grand-rapids.html
+121,Huntington Beach,CA,California,32.29,557,196,79,88,75,438,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/huntington-beach.html
+122,Overland Park,KS,Kansas,14.64,936,151,49,55,70,325,false,4.9,7.9,https://usasmartliving.com/utility-costs/kansas/overland-park.html
+123,Glendale,CA,California,30.89,533,181,75,84,75,415,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/glendale.html
+124,Tallahassee,FL,Florida,15.26,1121,185,54,60,72,371,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/tallahassee.html
+125,Tempe,AZ,Arizona,14.61,1097,175,56,62,72,365,false,6.5,6,https://usasmartliving.com/utility-costs/arizona/tempe.html
+126,Brownsville,TX,Texas,14.81,1191,188,54,60,70,372,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/brownsville.html
+127,Mobile,AL,Alabama,14.64,1163,185,51,57,69,362,false,4.8,8.2,https://usasmartliving.com/utility-costs/alabama/mobile.html
+128,Akron,OH,Ohio,16.64,914,166,54,60,69,349,true,4.2,7.8,https://usasmartliving.com/utility-costs/ohio/akron.html
+129,Knoxville,TN,Tennessee,11.98,1179,154,47,52,68,321,false,4.6,8.2,https://usasmartliving.com/utility-costs/tennessee/knoxville.html
+130,Shreveport,LA,Louisiana,11.85,1235,158,49,55,70,332,false,4.8,8.1,https://usasmartliving.com/utility-costs/louisiana/shreveport.html
+131,Newport News,VA,Virginia,14.34,1111,172,55,61,70,358,true,4.6,7.3,https://usasmartliving.com/utility-costs/virginia/newport-news.html
+132,Providence,RI,Rhode Island,27.32,588,177,61,68,75,381,true,4.1,6.5,https://usasmartliving.com/utility-costs/rhode-island/providence.html
+133,Fort Lauderdale,FL,Florida,15.02,1104,180,54,60,72,366,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/fort-lauderdale.html
+134,Chattanooga,TN,Tennessee,11.69,1150,147,46,51,68,312,false,4.6,8.2,https://usasmartliving.com/utility-costs/tennessee/chattanooga.html
+135,Sioux Falls,SD,South Dakota,12.99,974,139,44,49,69,301,false,4.8,8.7,https://usasmartliving.com/utility-costs/south-dakota/sioux-falls.html
+136,Ontario,CA,California,33.75,582,213,82,92,75,462,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/ontario.html
+137,Cape Coral,FL,Florida,16.03,1178,203,57,63,72,395,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/cape-coral.html
+138,Peoria,AZ,Arizona,13.89,1043,160,53,59,72,344,false,6.5,6,https://usasmartliving.com/utility-costs/arizona/peoria.html
+139,Eugene,OR,Oregon,12.81,911,129,59,66,72,326,true,4.3,8,https://usasmartliving.com/utility-costs/oregon/eugene.html
+140,Vancouver,WA,Washington,11.37,974,122,66,73,70,331,false,3.7,8.8,https://usasmartliving.com/utility-costs/washington/vancouver.html
+141,Elk Grove,CA,California,33.59,580,211,82,91,75,459,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/elk-grove.html
+142,Salem,OR,Oregon,13.03,926,133,60,67,72,332,true,4.3,8,https://usasmartliving.com/utility-costs/oregon/salem.html
+143,Pembroke Pines,FL,Florida,16.53,1214,215,59,65,72,411,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/pembroke-pines.html
+144,Santa Rosa,CA,California,33.94,586,215,83,92,75,465,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/santa-rosa.html
+145,Rancho Cucamonga,CA,California,31.57,545,189,77,86,75,427,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/rancho-cucamonga.html
+146,Oceanside,CA,California,31.44,543,187,77,85,75,424,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/oceanside.html
+147,Garden Grove,CA,California,33.1,571,206,81,90,75,452,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/garden-grove.html
+148,Clarksville,TN,Tennessee,12.75,1254,173,50,56,68,347,false,4.6,8.2,https://usasmartliving.com/utility-costs/tennessee/clarksville.html
+149,Murfreesboro,TN,Tennessee,11.74,1155,149,46,51,68,314,false,4.6,8.2,https://usasmartliving.com/utility-costs/tennessee/murfreesboro.html
+150,Lancaster,CA,California,32.68,564,201,80,89,75,445,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/lancaster.html
+151,Springfield,MO,Missouri,14.69,1099,175,53,59,69,356,false,4.6,7.7,https://usasmartliving.com/utility-costs/missouri/springfield.html
+152,Cary,NC,North Carolina,14.23,1080,167,53,59,70,349,false,4.8,7.4,https://usasmartliving.com/utility-costs/north-carolina/cary.html
+153,Fort Collins,CO,Colorado,15.04,705,119,57,64,70,310,false,5.4,7.2,https://usasmartliving.com/utility-costs/colorado/fort-collins.html
+154,Corona,CA,California,33.75,582,213,82,92,75,462,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/corona.html
+155,Hayward,CA,California,32.97,569,204,80,89,75,448,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/hayward.html
+156,Palmdale,CA,California,32.84,567,203,80,89,75,447,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/palmdale.html
+157,Salinas,CA,California,33.2,573,207,81,90,75,453,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/salinas.html
+158,Alexandria,VA,Virginia,14.5,1123,176,55,61,70,362,true,4.6,7.3,https://usasmartliving.com/utility-costs/virginia/alexandria.html
+159,Paterson,NJ,New Jersey,18.74,657,138,64,71,74,347,true,4.4,5.6,https://usasmartliving.com/utility-costs/new-jersey/paterson.html
+160,Sunnyvale,CA,California,32.94,568,204,80,89,75,448,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/sunnyvale.html
+161,Kansas City,KS,Kansas,15.24,973,162,51,57,70,340,false,4.9,7.9,https://usasmartliving.com/utility-costs/kansas/kansas-city.html
+162,Hollywood,FL,Florida,14.73,1082,173,53,58,72,356,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/hollywood.html
+163,Roseville,CA,California,30.67,529,179,75,83,75,412,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/roseville.html
+164,Charleston,SC,South Carolina,14.92,1142,184,52,58,70,364,false,4.9,7.2,https://usasmartliving.com/utility-costs/south-carolina/charleston.html
+165,Escondido,CA,California,33.75,582,213,82,92,75,462,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/escondido.html
+166,Bellevue,WA,Washington,11.38,975,122,66,73,70,331,false,3.7,8.8,https://usasmartliving.com/utility-costs/washington/bellevue.html
+167,Joliet,IL,Illinois,16.41,709,130,52,58,72,312,true,4.2,6.9,https://usasmartliving.com/utility-costs/illinois/joliet.html
+168,Naperville,IL,Illinois,17.64,762,148,56,63,72,339,true,4.2,6.9,https://usasmartliving.com/utility-costs/illinois/naperville.html
+169,Bridgeport,CT,Connecticut,29.47,733,232,66,73,75,446,true,4.1,6.8,https://usasmartliving.com/utility-costs/connecticut/bridgeport.html
+170,Savannah,GA,Georgia,15.1,1136,185,53,59,70,367,true,4.9,7.5,https://usasmartliving.com/utility-costs/georgia/savannah.html
+171,Mesquite,TX,Texas,14.58,1172,183,53,59,70,365,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/mesquite.html
+172,Pasadena,TX,Texas,15.38,1236,202,56,62,70,390,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/pasadena.html
+173,Pomona,CA,California,31.41,542,187,77,85,75,424,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/pomona.html
+174,Syracuse,NY,New York,24.32,593,161,71,78,75,385,true,3.9,6.4,https://usasmartliving.com/utility-costs/new-york/syracuse.html
+175,Mcallen,TX,Texas,14.68,1180,185,54,60,70,369,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/mcallen.html
+176,Killeen,TX,Texas,14.39,1157,178,52,58,70,358,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/killeen.html
+177,Dayton,OH,Ohio,15.6,857,147,50,56,69,322,true,4.2,7.8,https://usasmartliving.com/utility-costs/ohio/dayton.html
+178,Waco,TX,Texas,15.3,1230,200,56,62,70,388,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/waco.html
+179,Fullerton,CA,California,30.73,530,179,75,83,75,412,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/fullerton.html
+180,Olathe,KS,Kansas,13.69,875,134,46,51,70,301,false,4.9,7.9,https://usasmartliving.com/utility-costs/kansas/olathe.html
+181,Orange,CA,California,31.87,550,192,78,86,75,431,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/orange.html
+182,Denton,TX,Texas,14.59,1173,183,53,59,70,365,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/denton.html
+183,Warren,MI,Michigan,18.07,655,132,55,62,70,319,true,4.1,7.9,https://usasmartliving.com/utility-costs/michigan/warren.html
+184,Hampton,VA,Virginia,13.48,1044,154,51,57,70,332,true,4.6,7.3,https://usasmartliving.com/utility-costs/virginia/hampton.html
+185,Cedar Rapids,IA,Iowa,14.09,863,134,46,51,68,299,false,4.5,8,https://usasmartliving.com/utility-costs/iowa/cedar-rapids.html
+186,Midland,TX,Texas,15.17,1220,197,55,61,70,383,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/midland.html
+187,Columbia,SC,South Carolina,14.3,1094,170,50,55,70,345,false,4.9,7.2,https://usasmartliving.com/utility-costs/south-carolina/columbia.html
+188,Carrollton,TX,Texas,14.95,1202,192,55,61,70,378,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/carrollton.html
+189,Visalia,CA,California,31.64,546,189,77,86,75,427,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/visalia.html
+190,Elizabeth,NJ,New Jersey,19.48,683,148,67,74,74,363,true,4.4,5.6,https://usasmartliving.com/utility-costs/new-jersey/elizabeth.html
+191,Gainesville,FL,Florida,14.88,1094,177,53,59,72,361,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/gainesville.html
+192,Stamford,CT,Connecticut,29.99,746,240,67,75,75,457,true,4.1,6.8,https://usasmartliving.com/utility-costs/connecticut/stamford.html
+193,Thousand Oaks,CA,California,31.67,547,190,77,86,75,428,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/thousand-oaks.html
+194,Concord,CA,California,30.76,531,180,75,83,75,413,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/concord.html
+195,Round Rock,TX,Texas,15.44,1241,204,56,63,70,393,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/round-rock.html
+196,Simi Valley,CA,California,31.96,552,193,78,87,75,433,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/simi-valley.html
+197,Surprise,AZ,Arizona,14.81,1112,180,56,63,72,371,false,6.5,6,https://usasmartliving.com/utility-costs/arizona/surprise.html
+198,Lafayette,LA,Louisiana,11.86,1236,159,49,55,70,333,false,4.8,8.1,https://usasmartliving.com/utility-costs/louisiana/lafayette.html
+199,Topeka,KS,Kansas,14.03,896,140,47,53,70,310,false,4.9,7.9,https://usasmartliving.com/utility-costs/kansas/topeka.html
+200,Hartford,CT,Connecticut,27.62,687,206,62,69,75,412,true,4.1,6.8,https://usasmartliving.com/utility-costs/connecticut/hartford.html
+201,Athens,GA,Georgia,14.94,1124,181,52,58,70,361,true,4.9,7.5,https://usasmartliving.com/utility-costs/georgia/athens.html
+202,Victorville,CA,California,32.16,555,195,78,87,75,435,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/victorville.html
+203,Abilene,TX,Texas,15.45,1242,204,56,63,70,393,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/abilene.html
+204,Fargo,ND,North Dakota,11.56,993,128,45,50,70,293,false,4.4,9.5,https://usasmartliving.com/utility-costs/north-dakota/fargo.html
+205,Vallejo,CA,California,31.77,548,191,78,86,75,430,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/vallejo.html
+206,Pearland,TX,Texas,14.4,1158,179,53,58,70,360,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/pearland.html
+207,Berkeley,CA,California,30.99,535,182,76,84,75,417,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/berkeley.html
+208,Norman,OK,Oklahoma,13.25,1140,164,50,55,68,337,false,5.1,7.9,https://usasmartliving.com/utility-costs/oklahoma/norman.html
+209,Ann Arbor,MI,Michigan,18.36,666,136,56,63,70,325,true,4.1,7.9,https://usasmartliving.com/utility-costs/michigan/ann-arbor.html
+210,Broken Arrow,OK,Oklahoma,12.82,1103,154,48,54,68,324,false,5.1,7.9,https://usasmartliving.com/utility-costs/oklahoma/broken-arrow.html
+211,Rochester,MN,Minnesota,14.64,713,117,50,56,70,293,false,4.3,8.2,https://usasmartliving.com/utility-costs/minnesota/rochester.html
+212,Cambridge,MA,Massachusetts,27.54,578,176,67,74,76,393,true,4.1,6.2,https://usasmartliving.com/utility-costs/massachusetts/cambridge.html
+213,Sugar Land,TX,Texas,14.43,1160,179,53,59,70,361,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/sugar-land.html
+214,Lansing,MI,Michigan,17.84,647,129,55,61,70,315,true,4.1,7.9,https://usasmartliving.com/utility-costs/michigan/lansing.html
+215,Evansville,IN,Indiana,14.7,903,146,48,53,69,316,false,4.3,8.4,https://usasmartliving.com/utility-costs/indiana/evansville.html
+216,College Station,TX,Texas,14.7,1182,186,54,60,70,370,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/college-station.html
+217,Fairfield,CA,California,31.74,548,190,77,86,75,428,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/fairfield.html
+218,Clearwater,FL,Florida,16.37,1203,211,58,65,72,406,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/clearwater.html
+219,Beaumont,TX,Texas,14.25,1146,175,52,58,70,355,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/beaumont.html
+220,Independence,MO,Missouri,13.34,998,147,48,54,69,318,false,4.6,7.7,https://usasmartliving.com/utility-costs/missouri/independence.html
+221,Provo,UT,Utah,11.53,775,100,49,55,68,272,false,5.3,7.4,https://usasmartliving.com/utility-costs/utah/provo.html
+222,West Jordan,UT,Utah,12.24,823,111,52,58,68,289,false,5.3,7.4,https://usasmartliving.com/utility-costs/utah/west-jordan.html
+223,Murrieta,CA,California,34.17,590,218,83,93,75,469,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/murrieta.html
+224,Palm Bay,FL,Florida,14.9,1095,177,53,59,72,361,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/palm-bay.html
+225,El Monte,CA,California,34.27,591,219,84,93,75,471,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/el-monte.html
+226,Carlsbad,CA,California,33.94,586,215,83,92,75,465,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/carlsbad.html
+227,North Charleston,SC,South Carolina,15.34,1174,194,53,59,70,376,false,4.9,7.2,https://usasmartliving.com/utility-costs/south-carolina/north-charleston.html
+228,Temecula,CA,California,33.88,585,215,83,92,75,465,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/temecula.html
+229,Clovis,CA,California,34.2,590,218,83,93,75,469,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/clovis.html
+230,Springfield,IL,Illinois,17.86,772,152,57,63,72,344,true,4.2,6.9,https://usasmartliving.com/utility-costs/illinois/springfield.html
+231,Westminster,CO,Colorado,16.04,752,134,61,68,70,333,false,5.4,7.2,https://usasmartliving.com/utility-costs/colorado/westminster.html
+232,Costa Mesa,CA,California,31.48,543,187,77,85,75,424,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/costa-mesa.html
+233,High Point,NC,North Carolina,14.41,1094,171,53,59,70,353,false,4.8,7.4,https://usasmartliving.com/utility-costs/north-carolina/high-point.html
+234,Manchester,NH,New Hampshire,23.81,590,155,56,62,74,347,true,4.1,7.1,https://usasmartliving.com/utility-costs/new-hampshire/manchester.html
+235,Pueblo,CO,Colorado,15.62,732,127,59,66,70,322,false,5.4,7.2,https://usasmartliving.com/utility-costs/colorado/pueblo.html
+236,Lakeland,FL,Florida,16.31,1198,209,58,65,72,404,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/lakeland.html
+237,Pompano Beach,FL,Florida,14.76,1084,174,53,58,72,357,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/pompano-beach.html
+238,West Palm Beach,FL,Florida,14.74,1083,174,53,58,72,357,false,5.4,6.9,https://usasmartliving.com/utility-costs/florida/west-palm-beach.html
+239,Antioch,CA,California,32.64,563,200,80,89,75,444,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/antioch.html
+240,Everett,WA,Washington,10.7,917,109,62,69,70,310,false,3.7,8.8,https://usasmartliving.com/utility-costs/washington/everett.html
+241,Downey,CA,California,31.48,543,187,77,85,75,424,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/downey.html
+242,Lowell,MA,Massachusetts,27.06,568,170,66,73,76,385,true,4.1,6.2,https://usasmartliving.com/utility-costs/massachusetts/lowell.html
+243,Elgin,IL,Illinois,16.65,719,134,53,59,72,318,true,4.2,6.9,https://usasmartliving.com/utility-costs/illinois/elgin.html
+244,Richmond,CA,California,31.41,542,187,77,85,75,424,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/richmond.html
+245,Billings,MT,Montana,12.03,790,106,47,52,72,277,false,4.4,9.1,https://usasmartliving.com/utility-costs/montana/billings.html
+246,Gresham,OR,Oregon,12.68,902,126,59,65,72,322,true,4.3,8,https://usasmartliving.com/utility-costs/oregon/gresham.html
+247,Lewisville,TX,Texas,15.07,1211,194,55,61,70,380,true,5.3,6.8,https://usasmartliving.com/utility-costs/texas/lewisville.html
+248,Hillsboro,OR,Oregon,12.08,859,116,56,62,72,306,true,4.3,8,https://usasmartliving.com/utility-costs/oregon/hillsboro.html
+249,Ventura,CA,California,32.55,562,199,79,88,75,441,false,5.8,5.8,https://usasmartliving.com/utility-costs/california/ventura.html
+250,Greeley,CO,Colorado,16.01,750,133,61,68,70,332,false,5.4,7.2,https://usasmartliving.com/utility-costs/colorado/greeley.html
+251,Green Bay,WI,Wisconsin,16.81,678,129,51,57,70,307,false,4.2,7.9,https://usasmartliving.com/utility-costs/wisconsin/green-bay.html
+252,Las Cruces,NM,New Mexico,13.51,605,94,46,51,70,261,false,6.3,6.4,https://usasmartliving.com/utility-costs/new-mexico/las-cruces.html
+253,Davenport,IA,Iowa,14.67,899,144,47,53,68,312,false,4.5,8,https://usasmartliving.com/utility-costs/iowa/davenport.html
+254,Nampa,ID,Idaho,10.91,924,111,48,53,68,280,false,4.8,9.8,https://usasmartliving.com/utility-costs/idaho/nampa.html
+255,Meridian,ID,Idaho,11.67,988,126,51,57,68,302,false,4.8,9.8,https://usasmartliving.com/utility-costs/idaho/meridian.html
+256,Erie,PA,Pennsylvania,18.32,864,172,59,66,72,369,true,4.2,7.4,https://usasmartliving.com/utility-costs/pennsylvania/erie.html
+257,Wilmington,DE,Delaware,15.79,854,148,50,56,70,324,true,4.4,7.8,https://usasmartliving.com/utility-costs/delaware/wilmington.html
+258,Dover,DE,Delaware,15.99,865,152,51,56,70,329,true,4.4,7.8,https://usasmartliving.com/utility-costs/delaware/dover.html
+259,Newark,DE,Delaware,15.96,863,151,51,56,70,328,true,4.4,7.8,https://usasmartliving.com/utility-costs/delaware/newark.html
+260,Portland,ME,Maine,23.1,560,144,54,60,74,332,true,4.1,7.2,https://usasmartliving.com/utility-costs/maine/portland.html
+261,Bangor,ME,Maine,23.82,577,152,56,62,74,344,true,4.1,7.2,https://usasmartliving.com/utility-costs/maine/bangor.html
+262,Burlington,VT,Vermont,22.89,588,151,59,65,74,349,false,3.9,7.2,https://usasmartliving.com/utility-costs/vermont/burlington.html
+263,Nashua,NH,New Hampshire,24.8,615,168,58,65,74,365,true,4.1,7.1,https://usasmartliving.com/utility-costs/new-hampshire/nashua.html
+264,Concord,NH,New Hampshire,23.32,578,150,55,61,74,340,true,4.1,7.1,https://usasmartliving.com/utility-costs/new-hampshire/concord.html
+265,Warwick,RI,Rhode Island,28.11,605,186,63,70,75,394,true,4.1,6.5,https://usasmartliving.com/utility-costs/rhode-island/warwick.html
+266,Cranston,RI,Rhode Island,26.08,562,163,58,65,75,361,true,4.1,6.5,https://usasmartliving.com/utility-costs/rhode-island/cranston.html
+267,Silver Spring,MD,Maryland,17.75,979,188,60,66,72,386,true,4.4,6.8,https://usasmartliving.com/utility-costs/maryland/silver-spring.html
+268,Bethesda,MD,Maryland,16.81,927,170,57,63,72,362,true,4.4,6.8,https://usasmartliving.com/utility-costs/maryland/bethesda.html
+269,Charleston,WV,West Virginia,14.92,1111,179,60,67,72,378,false,4,8.5,https://usasmartliving.com/utility-costs/west-virginia/charleston.html
+270,Huntington,WV,West Virginia,13.8,1028,155,56,62,72,345,false,4,8.5,https://usasmartliving.com/utility-costs/west-virginia/huntington.html
+271,Morgantown,WV,West Virginia,14.94,1112,180,60,67,72,379,false,4,8.5,https://usasmartliving.com/utility-costs/west-virginia/morgantown.html
+272,Jackson,MS,Mississippi,13.5,1202,176,45,50,68,339,false,4.7,8.3,https://usasmartliving.com/utility-costs/mississippi/jackson.html
+273,Gulfport,MS,Mississippi,13.86,1233,184,46,51,68,349,false,4.7,8.3,https://usasmartliving.com/utility-costs/mississippi/gulfport.html
+274,Southaven,MS,Mississippi,13.59,1209,178,45,50,68,341,false,4.7,8.3,https://usasmartliving.com/utility-costs/mississippi/southaven.html
+275,Bowling Green,KY,Kentucky,12.67,1083,150,46,51,68,315,false,4.4,8.6,https://usasmartliving.com/utility-costs/kentucky/bowling-green.html
+276,Fayetteville,AR,Arkansas,12.44,1088,147,46,51,68,312,false,4.7,8.5,https://usasmartliving.com/utility-costs/arkansas/fayetteville.html
+277,Fort Smith,AR,Arkansas,13.44,1175,170,49,55,68,342,false,4.7,8.5,https://usasmartliving.com/utility-costs/arkansas/fort-smith.html
+278,Bellevue,NE,Nebraska,12.7,996,138,48,53,69,308,false,4.8,8.4,https://usasmartliving.com/utility-costs/nebraska/bellevue.html
+279,Rapid City,SD,South Dakota,12.5,938,129,43,47,69,288,false,4.8,8.7,https://usasmartliving.com/utility-costs/south-dakota/rapid-city.html
+280,Aberdeen,SD,South Dakota,12.51,939,129,43,47,69,288,false,4.8,8.7,https://usasmartliving.com/utility-costs/south-dakota/aberdeen.html
+281,Bismarck,ND,North Dakota,12.37,1063,144,48,53,70,315,false,4.4,9.5,https://usasmartliving.com/utility-costs/north-dakota/bismarck.html
+282,Grand Forks,ND,North Dakota,12.48,1072,147,48,54,70,319,false,4.4,9.5,https://usasmartliving.com/utility-costs/north-dakota/grand-forks.html
+283,Missoula,MT,Montana,12.04,790,106,47,52,72,277,false,4.4,9.1,https://usasmartliving.com/utility-costs/montana/missoula.html
+284,Great Falls,MT,Montana,12.71,834,117,49,55,72,293,false,4.4,9.1,https://usasmartliving.com/utility-costs/montana/great-falls.html
+285,Cheyenne,WY,Wyoming,12.16,851,115,46,51,72,284,false,5.1,8.6,https://usasmartliving.com/utility-costs/wyoming/cheyenne.html
+286,Casper,WY,Wyoming,12.74,891,126,48,54,72,300,false,5.1,8.6,https://usasmartliving.com/utility-costs/wyoming/casper.html
+287,Laramie,WY,Wyoming,12.21,854,116,46,52,72,286,false,5.1,8.6,https://usasmartliving.com/utility-costs/wyoming/laramie.html
+288,Rio Rancho,NM,New Mexico,13.6,609,95,46,51,70,262,false,6.3,6.4,https://usasmartliving.com/utility-costs/new-mexico/rio-rancho.html
+289,Fairbanks,AK,Alaska,23.5,595,158,65,72,89,384,false,3.2,12,https://usasmartliving.com/utility-costs/alaska/fairbanks.html
+290,Juneau,AK,Alaska,25.23,639,179,70,77,89,415,false,3.2,12,https://usasmartliving.com/utility-costs/alaska/juneau.html
+291,Hilo,HI,Hawaii,41.77,498,229,72,80,79,460,false,5.7,4.2,https://usasmartliving.com/utility-costs/hawaii/hilo.html
+292,Kailua,HI,Hawaii,44.81,534,260,77,86,79,502,false,5.7,4.2,https://usasmartliving.com/utility-costs/hawaii/kailua.html
+293,San Juan,PR,Puerto Rico,29.15,534,172,43,47,65,327,false,5.6,4.5,https://usasmartliving.com/utility-costs/puerto-rico/san-juan.html
+294,Hancock,ME,Maine,23.35,566,147,55,61,74,337,true,4.1,7.2,https://usasmartliving.com/utility-costs/maine/hancock.html
+295,Arecibo,PR,Puerto Rico,30.06,550,181,44,49,65,339,false,5.6,4.5,https://usasmartliving.com/utility-costs/puerto-rico/arecibo.html
+296,Ponce,PR,Puerto Rico,30.12,551,182,44,49,65,340,false,5.6,4.5,https://usasmartliving.com/utility-costs/puerto-rico/ponce.html
+297,Windsor,VT,Vermont,21.41,550,134,55,61,74,324,false,3.9,7.2,https://usasmartliving.com/utility-costs/vermont/windsor.html
+298,Rutland,VT,Vermont,21.97,564,140,56,62,74,332,false,3.9,7.2,https://usasmartliving.com/utility-costs/vermont/rutland.html
+299,Naval Anacost Annex,DC,District of Columbia,16.48,722,134,71,79,74,358,true,4.4,4.8,https://usasmartliving.com/utility-costs/district-of-columbia/naval-anacost-annex.html
+300,Washington Navy Yard,DC,District of Columbia,15.68,687,123,68,76,74,341,true,4.4,4.8,https://usasmartliving.com/utility-costs/district-of-columbia/washington-navy-yard.html
